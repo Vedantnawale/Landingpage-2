@@ -62,6 +62,7 @@ span{
 .btn-2{
     padding: 10px 15px;
     margin-top: 40px;
+    cursor: pointer;
 }
 .right-main img{
     margin-top: 40px;
